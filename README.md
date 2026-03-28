@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-<img src="https://regex101.com/static/assets/icon-152.png" width="150" title="regex101: build, test and debug regex" style="border-radius: 10px; overflow: hidden;">
+<img width="150"  alt="logo" src="https://github.com/user-attachments/assets/58715679-f7d9-4e6f-ae5d-176523cb4104" title="regex101: build, test and debug regex" style="border-radius: 10px; overflow: hidden;" />
+
 </p>
 <h3 align="center">regex101: build, test and debug regex</h3>
 <br/>
